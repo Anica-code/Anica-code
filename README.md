@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anica-code
-- 👀 I’m interested in everything
+- 👀 I’m interested in everything (to learn more visit my hello-world repository)
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me e-mail anikawary@gmail.com
